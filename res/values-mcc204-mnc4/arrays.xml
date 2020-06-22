@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_int_roaming_network">
+        <item>204</item>
+    </string-array>
+    <string-array name="config_default_vm_number">
+        <item>*86;BAE0000000000000</item>
+    </string-array>
+    <string-array name="config_sms_short_code_exception_list">
+        <item>112</item>
+    </string-array>
+</resources>

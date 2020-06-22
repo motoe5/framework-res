@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="default_data_roaming_enabled">true</bool>
+    <bool name="read_gid_from_usim_for_ruim">true</bool>
+</resources>

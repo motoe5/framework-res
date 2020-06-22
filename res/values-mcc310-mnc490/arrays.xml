@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="additional_domestic_network">
+        <item>330</item>
+        <item>302</item>
+        <item>334</item>
+        <item>348</item>
+    </string-array>
+    <string-array name="config_common_apn_types">
+        <item>ims</item>
+    </string-array>
+    <string-array name="skip_adjust_preferred_network_mode">
+        <item>imsi:31026097</item>
+    </string-array>
+</resources>

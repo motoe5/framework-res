@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="CLIRDefaultOffNextCallOff">Caller ID defaults to not restricted. Next call: not restricted</string>
+    <string name="CLIRDefaultOffNextCallOn">Caller ID defaults to not restricted. Next call: restricted</string>
+    <string name="CLIRDefaultOnNextCallOff">Caller ID defaults to restricted. Next call: not restricted</string>
+    <string name="CLIRDefaultOnNextCallOn">Caller ID defaults to restricted. Next call: restricted</string>
+    <string name="CfbReason">" Busy"</string>
+    <string name="CfnrReason">" Not Reachable"</string>
+    <string name="CfnryReason">" No Reply"</string>
+    <string name="CfuReason">" Unconditional"</string>
+    <string name="Midnight">midnight</string>
+    <string name="NetworkPreferenceSwitchTitle">Can’t find network</string>
+    <string name="Noon">noon</string>
+    <string name="ThreeWCMmi">Three-way calling</string>
+    <string name="action_bar_home_description">Navigate to Home</string>
+    <string name="alert_windows_notification_title">%s is being displayed over other apps</string>
+    <string name="android_system_label">Android system</string>
+    <string name="android_upgrading_apk">Optimising app %1$d of %2$d.</string>
+    <string name="android_upgrading_fstrim">Optimising storage.</string>
+    <string name="app_category_video">Films &amp; video</string>
+    <string name="autofill">Auto-fill</string>
+    <string name="autofill_error_cannot_autofill">Contents can’t be auto-filled</string>
+    <string name="autofill_picker_accessibility_title">Auto-fill options</string>
+    <string name="autofill_picker_no_suggestions">No auto-fill suggestions</string>
+    <string name="autofill_postal_code">Postcode</string>
+    <string name="autofill_save_accessibility_title">Save for AutoFill</string>
+    <string name="autofill_this_form">Auto-fill</string>
+    <string name="autofill_zip_code">Zip code</string>
+    <string name="badPin">The old PIN that you typed is incorrect.</string>
+    <string name="badPuk">"The PUK that you typed isn't correct."</string>
+    <string name="battery_saver_description">"To help improve battery life, battery saver reduces your device’s performance and limits vibration, location services and most background data. Email, messaging and other apps that rely on syncing may not be updated unless you open them.
+
+Battery saver turns off automatically when your device is charging."</string>
+    <string name="bugreport_message">This will collect information about your current device state to send as an email message. It will take a little time from starting the bug report until it is ready to be sent. Please be patient.</string>
+    <string name="bugreport_option_interactive_summary">Use this under most circumstances. It allows you to track progress of the report, enter more details about the problem and take screenshots. It might omit some less-used sections that take a long time to report.</string>
+    <string name="capability_desc_canCaptureFingerprintGestures">Can capture gestures performed on the devices fingerprint sensor.</string>
+    <string name="capability_desc_canPerformGestures">Can tap, swipe, pinch and perform other gestures.</string>
+    <string name="capability_desc_canRetrieveWindowContent">"Inspect the content of a window that you're interacting with."</string>
+    <string name="capability_title_canRequestFilterKeyEvents">Observe text that you type</string>
+    <string name="cfTemplateNotForwarded">{0}: not forwarded</string>
+    <string name="cfTemplateRegistered">{0}: not forwarded</string>
+    <string name="cfTemplateRegisteredTime">{0}: not forwarded</string>
+    <string name="contentServiceTooManyDeletesNotificationDesc">Too many %s deletions.</string>
+    <string name="create_contact_using">"Create contact
+ using %s"</string>
+    <string name="data_saver_description">To help reduce data usage, Data Saver prevents some apps from sending or receiving data in the background. An app that you’re currently using can access data, but may do so less frequently. This may mean, for example, that images aren’t displayed until you tap them.</string>
+    <string name="date_and_time" formatted="false">%-e %b %Y, %H:%M:%S</string>
+    <string name="default_notification_channel_label">Uncategorised</string>
+    <string name="demo_user_inactivity_timeout_countdown">"You'll lose any changes and the demo will start again in %1$s seconds…"</string>
+    <string name="dial_number_using">"Dial number
+ using %s"</string>
+    <string name="double_tap_toast">Tip: double-tap to zoom in and out.</string>
+    <string name="ext_media_init_action">Set-up</string>
+    <string name="faceunlock_multiple_failures">Maximum face unlock attempts exceeded</string>
+    <string name="factory_reset_message">"The admin app can't be used. Your device will now be erased.
+
+If you have questions, contact your organisation's admin."</string>
+    <string name="fingerprint_error_canceled">Fingerprint operation cancelled.</string>
+    <string name="fingerprint_error_timeout">Fingerprint timeout reached. Try again.</string>
+    <string name="global_actions_airplane_mode_off_status">Aeroplane mode is OFF</string>
+    <string name="global_actions_airplane_mode_on_status">Aeroplane mode is ON</string>
+    <string name="global_actions_toggle_airplane_mode">Aeroplane mode</string>
+    <string name="grant_credentials_permission_message_header">The following one or more applications request permission to access your account, now and in the future.</string>
+    <string name="input_method_binding_label">Input Method</string>
+    <string name="invalidPin">Enter a PIN that is 4 to 8 numbers.</string>
+    <string name="invalidPuk">Enter a PUK code that is 8 numbers or more.</string>
+    <string name="keyguard_accessibility_add_widget">Add widget</string>
+    <string name="keyguard_label_text">To unlock, press Menu, then 0.</string>
+    <string name="keyguard_password_enter_pin_code">Enter PIN</string>
+    <string name="keyguard_password_enter_pin_prompt">New PIN</string>
+    <string name="keyguard_password_enter_puk_code">Enter PUK code and new PIN</string>
+    <string name="keyguard_password_wrong_pin_code">Incorrect PIN.</string>
+    <string name="kg_enter_confirm_pin_hint">Confirm desired PIN</string>
+    <string name="kg_invalid_confirm_pin_hint">PINs do not match</string>
+    <string name="kg_login_account_recovery_hint">"Forgot your username or password?
+Visit "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_password_instructions">Enter password</string>
+    <string name="kg_password_wrong_pin_code">Incorrect PIN.</string>
+    <string name="kg_puk_enter_pin_hint">Enter desired PIN</string>
+    <string name="kg_wrong_password">Wrong password</string>
+    <string name="kg_wrong_pattern">Wrong pattern</string>
+    <string name="kilobyteShort">KB</string>
+    <string name="launchBrowserDefault">Launch browser?</string>
+    <string name="lockscreen_failed_attempts_almost_glogin">"You have drawn your unlock pattern incorrectly %1$d times. After %2$d more unsuccessful attempts, you will be asked to unlock your phone using your Google sign-in.
+
+ Please try again in %3$d seconds."</string>
+    <string name="lockscreen_failed_attempts_now_wiping">You have attempted to unlock the phone unsuccessfully %d times. The phone will now be reset to factory defaults.</string>
+    <string name="lockscreen_forgot_pattern_button_text">Forgotten pattern?</string>
+    <string name="lockscreen_glogin_account_recovery_hint">"Forgotten your username or password?
+Visit"<b> google.com/accounts/recovery</b>.</string>
+    <string name="lockscreen_transport_ffw_description">Fast-forward</string>
+    <string name="low_internal_storage_view_text_no_boot">Not enough storage for the system. Make sure that you have 250 MB of free space and restart.</string>
+    <string name="maximize_button_text">Maximise</string>
+    <string name="mediasize_na_index_3x5">Index Card 3 x 5</string>
+    <string name="mediasize_na_index_4x6">Index Card 4 x 6</string>
+    <string name="mediasize_na_index_5x8">Index Card 5 x 8</string>
+    <string name="mismatchPin">"The PINs that you typed don't match."</string>
+    <string name="mmiErrorWhileRoaming">Cannot change call forwarding settings from your phone while you are roaming.</string>
+    <string name="mmiFdnError">Operation is restricted to fixed dialling numbers only.</string>
+    <string name="month_day_year" formatted="false">%-e %B %Y</string>
+    <string name="needPuk">Your SIM card is PUK-locked. Enter the PUK code to unlock it.</string>
+    <string name="needPuk2">Enter PUK2 to unblock SIM card.</string>
+    <string name="network_logging_notification_text">Your organisation manages this device and may monitor network traffic. Tap for details.</string>
+    <string name="no_permissions">No permission required</string>
+    <string name="no_recent_tasks">No recent apps</string>
+    <string name="notification_channel_wfc">Wi-Fi Calling</string>
+    <string name="notification_title">Sign-in error for %1$s</string>
+    <string name="org_name">Organisation:</string>
+    <string name="org_unit">Organisational unit:</string>
+    <string name="permdesc_accessClogoBlock">Allows an application to read and write to the CLOGO block.</string>
+    <string name="permdesc_accessCoarseLocation">This app can get your location based on network sources such as phone masts and Wi-Fi networks. These location services must be turned on and available on your phone for the app to be able to use them.</string>
+    <string name="permdesc_accessFineLocation">This app can get your location based on GPS or network location sources such as phone masts and Wi-Fi networks. These location services must be turned on and available on your phone for the app to be able to use them. This may increase battery consumption.</string>
+    <string name="permdesc_accessWifiState">Allows the app to view information about Wi-Fi networking, such as whether Wi-Fi is enabled and the name of connected Wi-Fi devices.</string>
+    <string name="permdesc_accesshiddenmenudata">Allows app to have gid mot_tcmd to read/write the Hidden Menu files /persist/public/hiddenmenu</string>
+    <string name="permdesc_aov_audio_process">Allows access to audio hardware</string>
+    <string name="permdesc_bluetooth">Allows the app to view the configuration of the Bluetooth on the phone and to make and accept connections with paired devices.</string>
+    <string name="permdesc_bluetoothAdmin">Allows the app to configure the local Bluetooth phone and to discover and pair with remote devices.</string>
+    <string name="permdesc_clearCache">Allows the app to clear the cache directory if this directory space is lower than some threshold</string>
+    <string name="permdesc_createNetworkSockets">Allows the app to create network sockets and use customised network protocols. The browser and other applications provide the means to send data to the Internet, so this permission is not required to send data to the Internet.</string>
+    <string name="permdesc_disableKeyguard">Allows the app to disable the keylock and any associated password security. For example, the phone disables the keylock when receiving an incoming phone call, then re-enables the keylock when the call has finished.</string>
+    <string name="permdesc_getAccounts">Allows the app to get the list of accounts known by the phone. This may include any accounts created by applications that you have installed.</string>
+    <string name="permdesc_getPackageSize">Allows the app to retrieve its code, data and cache sizes</string>
+    <string name="permdesc_install_shortcut">Allows an application to add Home screen shortcuts without user intervention.</string>
+    <string name="permdesc_lockNow">Allows the app to lock the phone, requiring the user to enter their unlock PIN, password or pattern in order to resume using the phone.</string>
+    <string name="permdesc_nfc">Allows the app to communicate with Near Field Communication (NFC) tags, cards and readers.</string>
+    <string name="permdesc_persistentActivity">Allows the app to make parts of itself persistent in memory. This can limit the memory available to other apps, slowing down the phone.</string>
+    <string name="permdesc_processOutgoingCalls">Allows the app to see the number being dialled during an outgoing call with the option to redirect the call to a different number or abort the call altogether.</string>
+    <string name="permdesc_readCellBroadcasts">Allows the app to read mobile broadcast messages received by your device. Cell broadcast alerts are delivered in some locations to warn you of emergency situations. Malicious apps may interfere with the performance or operation of your device when an emergency mobile broadcast is received.</string>
+    <string name="permdesc_readContacts">"Allows the app to read data about your contacts stored on your phone, including the frequency with which you've called, emailed or communicated in other ways with specific individuals. This permission allows apps to save your contact data, and malicious apps may share contact data without your knowledge."</string>
+    <string name="permdesc_receiveBootCompleted">Allows the app to start itself as soon as the system has finished booting. This can make it take longer to start the phone and allow the app to slow down the overall phone by always running.</string>
+    <string name="permdesc_receiveMms">Allows the app to receive and process MMS messages. This means that the app could monitor or delete messages sent to your device without showing them to you.</string>
+    <string name="permdesc_receiveSms">Allows the app to receive and process SMS messages. This means that the app could monitor or delete messages sent to your device without showing them to you.</string>
+    <string name="permdesc_requestIgnoreBatteryOptimizations">Allows an app to ask for permission to ignore battery optimisations for that app.</string>
+    <string name="permdesc_shSetGlobalTransform">Allows single-hand service to set global transform.</string>
+    <string name="permdesc_uninstall_shortcut">Allows the application to remove Home screen shortcuts without user intervention.</string>
+    <string name="permdesc_userpreferredsim">Allows management of dual SIM related settings</string>
+    <string name="permdesc_vibrate">Allows the app to control vibration.</string>
+    <string name="permdesc_writeCalendar">This app can add, remove or change calendar events on your phone. This app can send messages that may appear to come from calendar owners or change events without notifying their owners.</string>
+    <string name="permdesc_writeContacts">"Allows the app to modify the data about your contacts stored on your phone, including the frequency with which you've called, emailed or communicated in other ways with specific contacts. This permission allows apps to delete contact data."</string>
+    <string name="permdesc_writeGeolocationPermissions">"Allows the app to modify the Browser's geo-location permissions. Malicious apps may use this to allow sending location information to arbitrary websites."</string>
+    <string name="permdesc_writeHistoryBookmarks">"Allows the app to modify the Browser's history or bookmarks stored on your phone. This may allow the app to delete or modify Browser data. Note: this permission may not be enforced by third-party browsers or other applications with web browsing capabilities."</string>
+    <string name="permdesc_writeSyncSettings">Allows an app to modify the sync settings for an account. For example, this can be used to enable syncing of the People app with an account.</string>
+    <string name="permgroupdesc_storage">access photos, media and files on your device</string>
+    <string name="permgrouplab_sensors">Body sensors</string>
+    <string name="permlab_accessClogoBlock">Read and write to CLOGO block</string>
+    <string name="permlab_access_notification_policy">"access 'Do not disturb'"</string>
+    <string name="permlab_accesshiddenmenudata">Should only be used by Motorola applications to access Hidden Menu files under /persist/public/hiddenmenu</string>
+    <string name="permlab_bodySensors">access body sensors (such as heart rate monitors)</string>
+    <string name="permlab_callPhone">call phone numbers directly</string>
+    <string name="permlab_camera">take pictures and video</string>
+    <string name="permlab_clearCache">Clear cache</string>
+    <string name="permlab_install_shortcut">Install shortcuts</string>
+    <string name="permlab_readCalendar">read calendar events and details</string>
+    <string name="permlab_readCellBroadcasts">read mobile broadcast messages</string>
+    <string name="permlab_readCidBlock">Read CID block</string>
+    <string name="permlab_readHistoryBookmarks">read your web bookmarks and history</string>
+    <string name="permlab_reorderTasks">re-order running apps</string>
+    <string name="permlab_requestIgnoreBatteryOptimizations">ask to ignore battery optimisations</string>
+    <string name="permlab_tcmdlocal">Should only be used by Motorola applications that have tcmd permission</string>
+    <string name="permlab_userpreferredsim">Access dual SIM settings</string>
+    <string name="permlab_writeCalendar">"add or modify calendar events and send emails to guests without owners' knowledge"</string>
+    <string name="permlab_writeGeolocationPermissions">Modify Browser geo-location permissions</string>
+    <string name="perms_new_perm_prefix"><font fgcolor="#ff33b5e5" size="12">NEW: </font></string>
+    <string name="phoneTypeCompanyMain">Company main</string>
+    <string name="phoneTypeFaxHome">Home fax</string>
+    <string name="phoneTypeFaxWork">Work fax</string>
+    <string name="phoneTypeOtherFax">Other fax</string>
+    <string name="phoneTypeTtyTdd">TTY/TDD</string>
+    <string name="phoneTypeWorkMobile">Work mobile</string>
+    <string name="phoneTypeWorkPager">Work pager</string>
+    <string name="policydesc_expirePassword">Change how frequently the screen lock password, PIN or pattern must be changed.</string>
+    <string name="policydesc_watchLogin">"Monitor the number of incorrect attempts to enter a password when unlocking the screen and lock the phone or erase all the phone's data if too many incorrect attempts are made."</string>
+    <string name="policylab_expirePassword">Set screen lock password expiry</string>
+    <string name="preposition_for_year">in%s</string>
+    <string name="reboot_safemode_confirm">Do you want to reboot into safe mode? This will disable all third-party applications that you have installed. They will be restored when you reboot again.</string>
+    <string name="relationTypeDomesticPartner">Partner</string>
+    <string name="relationTypePartner">Business partner</string>
+    <string name="replace">Replace...</string>
+    <string name="restr_pin_enter_old_pin">Current PIN:</string>
+    <string name="ringtone_picker_title_alarm">Alarm Sounds</string>
+    <string name="ringtone_picker_title_notification">Notification Sounds</string>
+    <string name="roamingText0">Roaming indicator on</string>
+    <string name="roamingText1">Roaming indicator off</string>
+    <string name="roamingText10">Roaming - partial service functionality</string>
+    <string name="roamingText11">Roaming banner on</string>
+    <string name="roamingText12">Roaming banner off</string>
+    <string name="roamingText2">Roaming indicator flashing</string>
+    <string name="roamingText3">Out of local area</string>
+    <string name="roamingText4">Out of building</string>
+    <string name="roamingText5">Roaming - preferred system</string>
+    <string name="roamingText6">Roaming - available system</string>
+    <string name="roamingText7">Roaming - alliance partner</string>
+    <string name="roamingText8">Roaming - premium partner</string>
+    <string name="roamingText9">Roaming - full service functionality</string>
+    <string name="roamingTextSearching">Searching for service</string>
+    <string name="serviceClassFAX">Fax</string>
+    <string name="serviceEnabled">Service has been enabled.</string>
+    <string name="serviceEnabledFor">Service has been enabled for:</string>
+    <string name="serviceErased">Successfully erased.</string>
+    <string name="setup_autofill">Set up Auto-fill</string>
+    <string name="sha1_fingerprint">SHA-1 fingerprint</string>
+    <string name="sha256_fingerprint">SHA-256 fingerprint</string>
+    <string name="sig_app_installed_detail">"An application you've just installed is requesting elevated access to your device. Tap below to review whether to grant access
+
+%s"</string>
+    <string name="sms_guard">SMS guard</string>
+    <string name="sms_guard_prompt">"International roaming. Sending
+message may incur charges."</string>
+    <string name="sms_premium_short_code_details"><b>This will incur charges on your mobile account.</b></string>
+    <string name="sms_short_code_confirm_always_allow">Always Allow*</string>
+    <string name="sms_short_code_details">This<b> may incur charges</b> on your mobile account.</string>
+    <string name="smv_application">The app %1$s (process %2$s) has violated its self-enforced Strict Mode policy.</string>
+    <string name="smv_process">The process %1$s has violated its self-enforced StrictMode policy.</string>
+    <string name="sync_too_many_deletes">Deletion limit exceeded</string>
+    <string name="time_of_day" formatted="false">%H:%M:%S</string>
+    <string name="vpn_title_long">VPN activated by %s</string>
+    <string name="vzw_disable_we_gsm_cf">Call forwarding disabled outside the Verizon Wireless network.</string>
+    <string name="websearch">Web search</string>
+    <string name="wifi_available_sign_in">Sign in to a Wi-Fi network</string>
+    <string name="wifi_connect_alert_message">Application %1$s would like to connect to Wi-Fi Network %2$s</string>
+    <string name="wifi_eap_No_SIM_text">"A SIM card is required to connect to Verizon Wi-Fi Access. You may not have inserted your sim card yet or it may be inserted incorrectly.
+
+Please turn off your phone and make sure your SIM card is properly inserted, then turn your phone back on and try connecting again "</string>
+    <string name="wifi_eap_No_SIM_text_non_vzw">"A SIM card is required to connect to %1$s. You may not have inserted your SIM card yet or it may be inserted incorrectly.
+
+Please turn off your phone and make sure your SIM card is properly inserted, then turn your phone back on and try connecting again "</string>
+    <string name="wifi_p2p_disconnect_and_reconnect">Wi-Fi Direct connection is active. Do you want to disconnect and connect to another P2P device?</string>
+    <string name="work_mode_off_message">This will turn on your work profile, including apps, background sync and related features</string>
+    <string name="zen_mode_forever">Until you turn off Do not disturb</string>
+    <string name="zen_mode_forever_dnd">Until you turn off Do not disturb</string>
+    <string name="zz_moto_wifi_enable_bt_warning_message">Turning ON Wi-Fi will turn OFF Bluetooth Tethering.</string>
+    <string name="zz_moto_wifi_enable_usb_warning_message">Turning ON Wi-Fi will turn OFF USB Tethering.</string>
+</resources>

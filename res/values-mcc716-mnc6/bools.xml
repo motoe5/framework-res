@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <bool name="is_broker_home_mcc_mnc">true</bool>
+    <bool name="config_match_special_chars_incalls">false</bool>
+</resources>
